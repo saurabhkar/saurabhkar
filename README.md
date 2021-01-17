@@ -2,7 +2,7 @@
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to deep learning.
-- 🌱 I’m currently learning Natural Language Processing and Django.
+- 🌱 Always Learning and keeping myself updated.
 - 🤝 I was a part of the AAPS core team to develop this website : <a href="https://aaps.gitlab.io/"> AAPS - All in All parcel service </a> 
 
 <!--

@@ -1,8 +1,8 @@
 <img src="https://avatars3.githubusercontent.com/u/25701705?s=460&u=ed76763f094925452dd8d8db5df236ca6131d3a2&v=4" width="256" height="256">
 
 ### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to deep learning.
-- 🌱 Always Learning and keeping myself updated.
+I am a working professional. I love to :
+- 🌱 Always Learn and keeping myself updated.
 - 🤝 I was a part of the AAPS core team to develop this website : <a href="https://aaps.gitlab.io/"> AAPS - All in All parcel service </a> 
 
 <!--
